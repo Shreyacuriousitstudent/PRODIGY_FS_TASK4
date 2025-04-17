@@ -1,0 +1,22 @@
+{
+  "name": "project4",
+  "version": "1.0.0",
+  "description": "Chat Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "node net.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "PRODIGY_FS_TASK4"
+  },
+  "keywords": [
+    "SERVER",
+    "CLIENT",
+    "KEY",
+    "ENDPOINTS",
+    "ETC"
+  ],
+  "author": "SHREYA DUBEY",
+  "license": "ISC"
+}
